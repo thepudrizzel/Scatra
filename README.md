@@ -5,4 +5,4 @@ bot-info: 'Moderation & General'
 date: '2025-05-01'
 ---
 
-### saas
+### Information about the bot
