@@ -1,5 +1,3 @@
-# Scatra
-
 ---
 title: 'qwe'
 image: 'https://i.ibb.co/PhYhpQr/v5-1-update-banner.png'
